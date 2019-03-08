@@ -15,6 +15,7 @@ Then you will be able to make API calls on port 8080 like so:
 curl -v -X GET "http://localhost:8080/health"
 ```
 
+
 And you will be able to read API documentation on port 8082 from browser: [http://localhost:8082/](http://localhost:8082/).
 
 All commands on this project are made using `GNU make`, to know available actions on make, use `make` or `make usage`:
